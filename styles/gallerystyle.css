@@ -1,0 +1,166 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+	font-size: 20px;
+}
+.ds{
+
+    width: 100%;
+    height: 100vh;
+    background-image: url("../src/nezuko.jpg");
+    background-position: center;
+    background-size: cover;
+
+}
+h2{
+
+    font-size: 30px;
+
+}
+
+h3{
+
+    font-size: 20px;
+    line-height: 20px;
+
+}
+
+.col{
+
+    flex-basis: 50%;
+
+}
+
+.n1{
+
+    width: 200px;
+    height: 210px;
+    display:  inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-position: center;
+    background-size: cover;
+    background-image: url("../src/nezukoA.jpg");
+}
+.n2{
+
+    width: 200px;
+    height: 210px;
+    display:  inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-position: center;
+    background-size: cover;
+    background-image: url("../src/tanjiro.jpg");
+}
+.n3{
+
+    width: 200px;
+    height: 210px;
+    display:  inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-position: center;
+    background-size: cover;
+    background-image: url("../src/dead.jpg");
+}
+.n4{
+
+    width: 200px;
+    height: 210px;
+    display:  inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-position: center;
+    background-size: cover;
+    background-image: url("../src/zenitsu.jpg");
+}
+.n5{
+
+    width: 200px;
+    height: 210px;
+    display:  inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-position: center;
+    background-size: cover;
+    background-image: url("../src/inosuke.jpg");
+}
+.n6{
+
+    width: 200px;
+    height: 210px;
+    display:  inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-position: center;
+    background-size: cover;
+    background-image: url("../src/mitsuri.jpg");
+}
+.n7{
+
+    width: 200px;
+    height: 210px;
+    display:  inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-position: center;
+    background-size: cover;
+    background-image: url("../src/kyojuro.jpg");
+}
+.n8{
+
+    width: 200px;
+    height: 210px;
+    display:  inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-position: center;
+    background-size: cover;
+    background-image: url("../src/tengen.jpg");
+}
+.n9{
+
+    width: 200px;
+    height: 210px;
+    display:  inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-position: center;
+    background-size: cover;
+    background-image: url("../src/muzan.jpg");
+}
+.n:hover{
+
+    transform: translateY(-12px);
+    transition: 0.8s;
+
+}
